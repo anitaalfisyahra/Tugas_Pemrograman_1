@@ -1,0 +1,6 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P1_4_1204014\P1_4_1204014\bin\Debug\P1_4_1204014.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P1_4_1204014\P1_4_1204014\bin\Debug\P1_4_1204014.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P1_4_1204014\P1_4_1204014\bin\Debug\P1_4_1204014.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P1_4_1204014\P1_4_1204014\obj\Debug\P1_4_1204014.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P1_4_1204014\P1_4_1204014\obj\Debug\P1_4_1204014.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P1_4_1204014\P1_4_1204014\obj\Debug\P1_4_1204014.csprojResolveAssemblyReference.cache
